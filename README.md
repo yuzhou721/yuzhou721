@@ -12,3 +12,4 @@
 - Javascript
 - html & css
 - React & Vue
+- Clojure
